@@ -1,5 +1,7 @@
-# Hi there
+# Hi there :wave:
 
-Mostly I write code, I love doing it and I'm trying to do it as much as I can. My latest setup is working on service automation systems in the food / takeaway space  at [JustEat](https://www.just-eat.com). The rest of the time I'm hacking with Elixir to build small things that improve people's daily lives, be that their jobs, faith, or family life.
+My name is Elliot, I'm a Senior Software Engineer / Engineering Manager depending on where I'm needed. I'm currently working at [DICE](https://dice.fm) as a Senior Software Engineer. Previously I was an Engineering Manager at [Just Eat Takeaway.com](https://www.justeattakeaway.com/).
 
-If you want to reach out you can email me (my address is floating around and not hard to find) or get me on [Twitter](https://twitter.com/elliotblackburn).
+I mostly work with Elixir these days, although in the past I've also worked a lot with C# / .NET, NodeJS / JavaScript, and a bunch of cloud and distributed computing tech. I live in the United Kingdom and I work remote.
+
+I [tweet](https://twitter.com/elliotblackburn), [blog](https://www.elliotblackburn.com), from time to time [speak](https://speakerdeck.com/bluehatbrit) about all sorts. I also spend time working with those new to the tech industry through [The Green Coder](https://www.thegreencoder.com) as well as mentoring.
