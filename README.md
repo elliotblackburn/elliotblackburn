@@ -4,4 +4,4 @@ My name is Elliot, I'm a Senior Software Engineer / Engineering Manager dependin
 
 I mostly work with Python and Elixir these days, although in the past I've also worked a lot with C# / .NET, NodeJS / JavaScript, and a bunch of cloud and distributed computing tech. I live in the United Kingdom and I work remote.
 
-I post on [mastodon](https://fosstodon.org/@elliotblackburn), [blog](https://www.elliotblackburn.com), and from time to time [speak](https://speakerdeck.com/bluehatbrit) about things.
+I post on [mastodon](https://fosstodon.org/@elliotblackburn), my [blog](https://www.elliotblackburn.com), and from time to time [speak](https://speakerdeck.com/bluehatbrit) about things.
