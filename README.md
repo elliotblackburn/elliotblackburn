@@ -9,7 +9,7 @@ My name is Elliot, I'm a Developer Relations Engineer at [Tailscale](https://tai
 
 ## Open source
 
-I build lots of software, and much of it I release as open source under various licenses. Right now a lot of my professional work at Tailscale is also open source which you can find [@tailscale-dev](https://www.github.com/tailscale-dev).
+I build lots of software, and much of it I release as open source under various licenses. Most of my professional work at Tailscale is also open source which you can find [@tailscale](https://www.github.com/tailscale).
 
 ## Software Sovereignty
 
